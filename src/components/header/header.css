@@ -29,6 +29,13 @@ header {
     bottom: 3rem;
 }
 
+/* .header__socials::before {
+    content: '';
+    width: 1px;
+    height: 2rem;
+    background: var(--color-primary);
+} */
+
 .header__socials::after {
     content: '';
     width: 1px;
@@ -38,7 +45,7 @@ header {
 
 /* ME image*/
 .me {
-    background: lindear-gradient(var(--color-primary), transparent);
+    background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
     position: absolute;
