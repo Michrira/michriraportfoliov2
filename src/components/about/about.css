@@ -19,6 +19,33 @@
   transition: var(--transition);
 }
 
+.about__me {
+    width: 100%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    background: linear-gradient(
+    45deg,
+    transparent,
+    var(--color-primary),
+    transparent
+    );
+    display: grid;
+    place-items: center;
+    transition: var(--transition);
+}
+
+#about img  {
+    margin-bottom: 10px;
+ /*    max-width: 50%; */
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    /* background: #a50707; */
+    box-shadow: 7px 1px 1px #5B4B8A, 10px 10px 0 -5px #eee, 15px 10px 1px -4px #4C3575,
+    20px 20px 0 -10px #eee, 0 20px 1px -9px #333;
+}
+
+
+
 .about__me-image {
   border-radius: 2rem;
   overflow: hidden;
