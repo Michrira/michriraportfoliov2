@@ -3,6 +3,10 @@
     padding-bottom: 4rem;
 }
 
+.container.testimonials__section {
+    margin-top: 9rem;
+}
+
 .client__avatar {
     width: 4rem;
     aspect-ratio: 1/1;

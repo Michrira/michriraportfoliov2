@@ -16,8 +16,12 @@
     padding: 1.2rem;
     border-radius: 1.2rem;
     text-align: center;
+    font-size: 1.2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .contact__option:hover {
@@ -33,8 +37,9 @@
 .contact__option a {
     margin-top: 0.7rem;
     display: inline-block;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
+
 
 /* Form */
 form {
@@ -55,10 +60,17 @@ input, textarea {
 
 /* Media queries (medium devices) */
 @media screen and (max-width: 1024px) {
-    .contact.container__container .contact.container__section {
+        .contact {
         grid-template-columns: 1fr;
         gap: 2rem;
+        margin-top: 12rem;
+    }
 
+    .contact__option {
+        font-size: 0.9rem;
+        white-space: normal;
+        overflow: hidden;
+        text-overflow: unset;
     }
 }
 
