@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Michriraportfoliov2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This repository contains my personal poertfolio. I utilized React to build the frontend of the application. With this, Users are able to see my personal info, experience, past projects and my currnet contact information. 
 
-In the project directory, you can run:
+## Table of Contents 
+- [Installation](#installation)
+- [Photos](#photos)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Links](#links)
+- [Questions](#questions)
 
-### `npm start`
+## Photos
+![Screenshot 2023-05-26 212044](https://github.com/Michrira/michriraportfoliov2/assets/126362926/d68c8c42-e112-4e6f-a73a-76ad62a91337)
+![Screenshot 2023-05-26 212121](https://github.com/Michrira/michriraportfoliov2/assets/126362926/5e57d65c-ad53-4144-a4be-17d992ad4061)
+![Screenshot 2023-05-26 212153](https://github.com/Michrira/michriraportfoliov2/assets/126362926/71340b5a-a81d-44e4-a503-76a9c59aed2b)
+![Screenshot 2023-05-26 212304](https://github.com/Michrira/michriraportfoliov2/assets/126362926/34a9de44-477f-4636-98a5-2a2f54f65304)
+![Screenshot 2023-05-26 212327](https://github.com/Michrira/michriraportfoliov2/assets/126362926/7ec9b7ba-8d8c-4769-971c-447330121f5b)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+The User will have to clone the repository. Once in Gitbash, the User will need to install all of the necessary packages "npm i" in the root directory of the repository. Then the user will have to run "npm run develop" to run the client application. The client will run on port 3000. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
+After the user has done "npm run develop" the portfolio will spin up on the browser. The user will be able to see my personal info - including my resume, contact info, past projects and
 
-### `npm test`
+## Credits
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+My discord study group! 
 
-### `npm run build`
+## License
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  
+Project licensed under the MIT license.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Links
+Github repo: https://github.com/Michrira/michriraportfoliov2.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Deployed app: https://michrira.github.io/michriraportfoliov2/
 
-### `npm run eject`
+## Questions
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you have any questions, please contact me directly at michaelchristianrader@gmail.com
