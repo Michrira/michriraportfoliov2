@@ -15,23 +15,23 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore impedit molestiae enim mollitia placeat iure ipsam, ad pariatur inventore alias labore quia. Qui nam, debitis doloremque repudiandae nisi accusamus ullam.'
+    name: 'Tara Snow',
+    review: 'Testimonials coming soon.'
   },
   {
     avatar: AVTR2,
     name: 'Devin Clark',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore impedit molestiae enim mollitia placeat iure ipsam, ad pariatur inventore alias labore quia. Qui nam, debitis doloremque repudiandae nisi accusamus ullam.'
+    review: 'Testimonials coming soon.'
   },
   {
     avatar: AVTR3,
     name: 'Shawn Marks',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore impedit molestiae enim mollitia placeat iure ipsam, ad pariatur inventore alias labore quia. Qui nam, debitis doloremque repudiandae nisi accusamus ullam.'
+    review: 'Testimonials coming soon.'
   },
   {
     avatar: AVTR4,
     name: 'Sabrina Forrester',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore impedit molestiae enim mollitia placeat iure ipsam, ad pariatur inventore alias labore quia. Qui nam, debitis doloremque repudiandae nisi accusamus ullam.'
+    review: 'Testimonials coming soon.'
   },
 ]
 

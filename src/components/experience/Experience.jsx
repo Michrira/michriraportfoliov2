@@ -16,42 +16,42 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Advanced CSS</h4>
+                {/* <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>BootStrap</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Web APIs</h4>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Tailwind</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Third-Party APIs</h4>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <small className="text-light">Experienced</small>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
           </div>
@@ -64,36 +64,36 @@ const Experience = () => {
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Node JS</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Node.JS</h4>
+               {/*  <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>MongoDB</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>MongoDB/SQL</h4>
+                {/* <small className="text-light">Intermediate</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>PHP</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Express.JS</h4>
+               {/*  <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>MySQL</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Restful APIs</h4>
+              {/*   <small className="text-light">Experienced</small> */}
               </div>
             </article>
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+                <h4>ORM/MVC/MERN</h4>
+                {/* <small className="text-light">Experienced</small> */}
               </div>
             </article>
           </div>
