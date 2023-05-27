@@ -40,7 +40,7 @@ const About = () => {
           </div>
         
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint tenetur illo delectus rerum nostrum officia ad eveniet? Tenetur sapiente neque corrupti iste pariatur provident! Aliquam reprehenderit omnis fugit tempora porro!
+          Experienced full-stack web developer with a passion for team building and a background in hospitality and sales. Proficient in HTML, CSS, JavaScript, React, and various backend technologies, including Node.js and SQL. Skilled in project management, problem-solving, and delivering high-quality work on tight deadlines. Demonstrated success in increasing sales, reducing costs, and improving customer satisfaction in various management roles. Strong communication skills and a collaborative approach to working with cross-functional teams.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

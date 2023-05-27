@@ -60,7 +60,6 @@ h1 {
 
 section {
     margin-top: 8rem;
-    
 }
 
 section > h2, section > h5 {
@@ -125,10 +124,10 @@ img {
     }
 
 }
-/* Media queries (medium devices) */
-@media screen and (max-width: 1024px) {
+/* Media queries (small devices) */
+@media screen and (max-width: 600px) {
     .container {
-        width: var(--container-width-md);
+        width: var(--container-width-sm);
     }
 
     section {

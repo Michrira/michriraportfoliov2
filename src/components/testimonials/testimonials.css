@@ -37,16 +37,23 @@
     .container.testimonials__container {
         width: 60%;
     }
+
+    .container.testimonials__section {
+        margin-top: 35rem;
+    }
 }
 
 
 /* Media queries (small devices) */
 @media screen and (max-width: 600px) {
-    .container.testimonials__container {
+    .container.testimonials__container, .testimonials__section {
+        grid-template-columns: 1fr;
+        gap: 1.2rem;
         width: var(--container-width-sm);
     }
 
     .clinet__review {
         width: var(--container-width-sm);
+        
     }
 }
