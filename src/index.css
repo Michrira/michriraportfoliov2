@@ -131,7 +131,10 @@ img {
     }
 
     section {
-        margin-top: 6rem;
+        margin-top: 24rem;
     }
 
+    section > h2 {
+        margin-bottom: 4rem;
+    }
 }

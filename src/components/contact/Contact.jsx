@@ -14,11 +14,11 @@ const Contact = () => {
 
     emailjs.sendForm('service_28urt4l', 'template_gbpz84c', form.current, 'oBwhnMGL3MfOt9Yil')
 
-    e.target.reset();
+    e.target.rest();
   };
 
   return (
-    <section id='contact' className="contact__section">
+    <section id='contact' className="contact container__section">
       <h5>Get In Touch</h5>
       <h2>Contact Me</h2>
 
